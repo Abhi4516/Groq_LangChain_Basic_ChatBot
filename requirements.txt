@@ -1,0 +1,13 @@
+ipykernel
+fastapi
+uvicorn
+python-dotenv
+langchain_core
+langchain_groq
+langserve
+streamlit
+langchain_community
+transformers
+langchain-chroma
+langchain_huggingface
+bs4
